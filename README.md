@@ -1,5 +1,5 @@
 # electiva-sdi
-Sitio web de la materia electiva "Sociología de Internet" de la Facultad de Ciencias Sociales - UMSS. (En desarrollo).
+Sitio web de la materia electiva "Sociología de Internet" (FACSO - UMSS). 
 ## Dirección
 http://sociologiadeinter.net
 
