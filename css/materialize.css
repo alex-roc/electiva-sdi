@@ -6520,9 +6520,10 @@ ul.table-of-contents a {
     height: 100%;
     height: calc(100% + 60px);
     padding-bottom: 60px;
-    background-color: #FFF;
+    background-color: #272822;
     z-index: 999;
-    will-change: left; }
+    will-change: left;
+    }
     ul.side-nav.right-aligned {
       will-change: right;
       right: -250px;
@@ -6536,7 +6537,8 @@ ul.table-of-contents a {
       ul.side-nav li:hover, ul.side-nav li.active {
         background-color: #ddd; }
     ul.side-nav a {
-      color: #444; }
+      /* color: #444; */
+      }
  }
 
 .drag-target {
