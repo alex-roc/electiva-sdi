@@ -6,9 +6,9 @@
   padding: 0 15px;
 }
 
-#intro{padding-top: 4rem;}
+#intro{padding-top: 1rem;}
 
-#work{padding-top: 4rem;}
+#work{padding-top: 1rem;}
 
 #index-banner {
 	min-height: 632px;
@@ -205,10 +205,12 @@ xtype
 @media only screen and (max-width: 480px) {
   .text_h {
   padding: 4% 0;
-  font-size: 4em;
+  font-size: 5em;
   font-weight: 100;
   color: #A6E22E;
   }
 }
 
-
+nav ul li:hover {
+   background-color: #A6E22E;
+}
