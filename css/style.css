@@ -262,6 +262,10 @@ nav ul li:hover {
     background-color: #A6E22E;
 }
 
+footer ul li:hover {
+    text-decoration: underline;
+}
+
 @media only screen and (max-width: 600px) {
     .text_h2 {
         font-size: 2em;
