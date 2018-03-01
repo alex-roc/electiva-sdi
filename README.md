@@ -5,5 +5,5 @@ Sitio web de la materia electiva "Sociología de Internet" (FACSO - UMSS), elabo
 Sitio web estático elaborado con html, css y javascript. Se utilizó el framework [MaterializeCSS](materlizecss.com) y el editor de código [Brackets](brackets.io).
 
 ## Dirección web
-http://sociologiadeinter.net
+http://alex-roc.github.io/electiva-sdi/
 
